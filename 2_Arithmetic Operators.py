@@ -1,6 +1,20 @@
 
 ############   24/7/2023    ###########
 
+########      Python operator
+
+###operator preciding
+
+#rule for mathematical opertion
+
+#PEMDAS
+#p=paranthesis
+#E=Expontentional
+#M=Multiply
+#D=Division
+#A=Addtion
+#S=Subtraction
+
 ######### Arithmetic Operators    ###########
 home =10
 away =15
